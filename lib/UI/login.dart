@@ -1,6 +1,6 @@
 // ignore_for_file: use_build_context_synchronously
 import 'dart:ui';
-import 'package:bluemint/homeScreens/intermed_home.dart';
+import 'package:spatial/homeScreens/intermed_home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:rive/rive.dart';

@@ -1,5 +1,5 @@
-import 'package:bluemint/UI/login.dart';
-import 'package:bluemint/homeScreens/intermed_home.dart';
+import 'package:spatial/UI/login.dart';
+import 'package:spatial/homeScreens/intermed_home.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

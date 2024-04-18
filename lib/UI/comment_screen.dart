@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:developer';
-import 'package:bluemint/models/create_comment_body.dart';
+import 'package:spatial/models/create_comment_body.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import '../constants/uiColors.dart';

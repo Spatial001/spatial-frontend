@@ -1,4 +1,4 @@
-import 'package:bluemint/constants/globals.dart';
+import 'package:spatial/constants/globals.dart';
 import 'package:flutter/material.dart';
 import 'package:sleek_circular_slider/sleek_circular_slider.dart';
 

@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:developer';
-import 'package:bluemint/models/comments.dart';
-import 'package:bluemint/models/postbody.dart';
+import 'package:spatial/models/comments.dart';
+import 'package:spatial/models/postbody.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 import '../constants/api_url.dart';

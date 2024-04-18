@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:developer';
 import 'package:awesome_dialog/awesome_dialog.dart';
-import 'package:bluemint/UI/comment_screen.dart';
-import 'package:bluemint/constants/uiColors.dart';
+import 'package:spatial/UI/comment_screen.dart';
+import 'package:spatial/constants/uiColors.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:permission_handler/permission_handler.dart';

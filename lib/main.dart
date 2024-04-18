@@ -1,6 +1,6 @@
-import 'package:bluemint/UI/nave_page.dart';
-import 'package:bluemint/UI/onboard.dart';
-import 'package:bluemint/homeScreens/intermed_home.dart';
+import 'package:spatial/UI/nave_page.dart';
+import 'package:spatial/UI/onboard.dart';
+import 'package:spatial/homeScreens/intermed_home.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:developer';
-import 'package:bluemint/models/vote_body.dart';
-import 'package:bluemint/services/api_services.dart';
+import 'package:spatial/models/vote_body.dart';
+import 'package:spatial/services/api_services.dart';
 
 void upVote(String? userId, String postId) async {
   VoteBody data = VoteBody(voteID: postId);
